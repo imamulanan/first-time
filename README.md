@@ -100,9 +100,9 @@ or
 
 ![profile](./image/pp.jpg)
 
-<img src="./image/pp.JPG" width="250">
+<ima src="./image/pp.JPG" width="250">
 
-<img src="./image/pp.JPG" width="180">
+<ima src="./image/pp.JPG" width="180">
 
 <br/>
 
